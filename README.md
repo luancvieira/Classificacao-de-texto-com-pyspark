@@ -4,6 +4,6 @@ Classificação de texto com dados BBC News.
 
 Utiliza TFIDF e classificação com regressão logística. 
 
-- [X] [Código](/Classificacao Texto BBC News.ipynb)
+- [X] [Código](/Classificacao%20Texto%20BBC%20News.ipynb)
 
 
